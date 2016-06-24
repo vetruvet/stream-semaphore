@@ -1,0 +1,28 @@
+{
+  "name": "stream-semaphore",
+  "version": "1.0.0",
+  "description": "Node.js semaphore for streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetruvet/stream-semaphore.git"
+  },
+  "keywords": [
+    "semaphore",
+    "stream",
+    "through",
+    "gulp"
+  ],
+  "author": "Valera Trubachev <vetruvet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vetruvet/stream-semaphore/issues"
+  },
+  "homepage": "https://github.com/vetruvet/stream-semaphore#readme",
+  "dependencies": {
+    "through2": "^2.0.1"
+  }
+}
